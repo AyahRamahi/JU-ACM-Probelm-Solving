@@ -8,7 +8,7 @@
 * For & While loops
 
 
-### Quastions :
+### Questions :
 * [Watermelon](http://codeforces.com/problemset/problem/4/A)
 * [Theatre Square](http://codeforces.com/problemset/problem/1/A)
 * [Domino piling](http://codeforces.com/problemset/problem/50/A)
